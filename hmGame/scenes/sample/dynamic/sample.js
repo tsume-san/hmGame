@@ -1,7 +1,8 @@
 scene.actCall();
 
 // サンプルシーンのアクションメソッド
-function act_sample(){
+function act_sample(param){
+console.log(param);
 	// #hogeの要素へ顔文字を挿入
 	scene.id("hoge").innerHTML = "(^_^)b";
 

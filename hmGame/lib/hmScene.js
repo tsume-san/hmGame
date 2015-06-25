@@ -1,5 +1,5 @@
 /*
- * hmDenko
+ * hmScene
  *
  * powered by tsumesan
  * copyright 2015 hogemix laboratory all rights reserved.
